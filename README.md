@@ -16,46 +16,60 @@ Criando projeto no GitHub:
 - Acessar sua conta do GitHub e seguir os passos abaixo 
  - Create a new repositor
      . Repository name: ex “dio-desafio-github-primeiro-repo”
-     . Description(optional) “DIO - Desafio criando primeiro projeto GitGub  
+     
+     . Description(optional) “DIO - Desafio criando primeiro projeto GitGub 
+     
      . Public(marcar) “Caso tenha interesse que outras pessoas contribua com projeto”
+     
      . Add a README file (você pode marcar para adicionar informações ao seu projeto) 
+     
      .Create Repository (Após clicar seu projeto será criado)
 
 Agora com projeto criado na nuvem é possível interagir por meio de comandos localmente e na web
 Com o GitBash aberto na pasta local do seu projeto do seu projeto
 
 . Clonar um repositório local ou remoto
+
   $ git clone
   
 . Verificar estado dos arquivos/diretórios 
+
   $ git status
 
 . Adicionar um arquivo especifico 
+
   $ git add meu_arquivo.txt
 
 . Adicionar um diretório especifico 
+
   $ git add meu_diretorio
 
 . Adicionar todos arquivos/diretórios
+
   $ git add .
 
 Comitar arquivo/diretório
 
 . Comitar arquivo 
+
  $ git commit meu_arquivo.txt
 
 . Comitar vários arquivos  
+
  $ git commit meu_arquivo.txt meu_outro_arquivo.txt
 
 . Comitar informando mensagem
+
  $ git commit meuarquivo.txt -m "minha mensagem de commit"
 
 Remover arquivo/diretório
 
 . Remover arquivo
+
  $ git rm meu_arquivo.txt
 
 . Remover diretorio
+
  $ git rm -r diretório
  
  Por: Daniel Machado 
