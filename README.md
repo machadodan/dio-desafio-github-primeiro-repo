@@ -15,6 +15,7 @@ Abaixo segue uma lista básica de comandos do Git, lembrando que para utilizaç�
 Criando projeto no GitHub:
 - Acessar sua conta do GitHub e seguir os passos abaixo 
  - Create a new repositor
+ - 
      . Repository name: ex “dio-desafio-github-primeiro-repo”
      
      . Description(optional) “DIO - Desafio criando primeiro projeto GitGub 
@@ -73,4 +74,5 @@ Remover arquivo/diretório
  $ git rm -r diretório
  
  Por: Daniel Machado 
+ 
  obs: Explorando conceitos "Criando seu Primeiro Repositório no GitHub" no curso de Venilton, Tech Lead na DIO.
